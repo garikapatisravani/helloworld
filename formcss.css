@@ -1,0 +1,40 @@
+/*.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  top: 18px;
+  left: 10px;
+}
+
+header {
+    background: #555;
+
+}
+h1{
+	display:inline;
+}
+
+.header-img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}*/
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  
+}
+
+
